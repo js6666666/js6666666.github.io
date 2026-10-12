@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="330" viewBox="0 0 480 330" fill="none">
+  <g stroke="#cad4c7" stroke-width="1">
+    <path d="M0 65H480M0 125H480M0 185H480M0 245H480M60 10V315M120 10V315M180 10V315M240 10V315M300 10V315M360 10V315M420 10V315"/>
+  </g>
+  <circle cx="305" cy="158" r="113" fill="#dce5d6"/>
+  <path d="M76 270H438" stroke="#799278"/>
+  <path d="M106 265V275M210 265V275M314 265V275M418 265V275" stroke="#799278"/>
+  <rect x="40" y="88" width="107" height="137" rx="5" fill="#f8f7f2" stroke="#93a78f"/>
+  <rect x="55" y="72" width="107" height="137" rx="5" fill="#fffefa" stroke="#93a78f"/>
+  <path d="M73 97H115M73 119H143M73 134H138M73 149H143M73 177H125" stroke="#bcc8b5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M73 149H118" stroke="#a26842" stroke-width="4" stroke-linecap="round"/>
+  <path d="M163 142H205M197 135L205 142L197 149" stroke="#587a61" stroke-width="1.5"/>
+  <path d="M221 215C244 215 248 170 272 170S296 191 317 164S337 118 359 118S395 68 423 64" stroke="#275b4d" stroke-width="3"/>
+  <path d="M221 233C250 233 261 218 284 218S312 203 335 203S375 181 423 181" stroke="#a26842" stroke-width="2" stroke-dasharray="5 6"/>
+  <g fill="#fffefa" stroke="#275b4d" stroke-width="2.5">
+    <circle cx="221" cy="215" r="5"/><circle cx="272" cy="170" r="5"/><circle cx="317" cy="164" r="5"/><circle cx="359" cy="118" r="5"/><circle cx="423" cy="64" r="5"/>
+  </g>
+  <circle cx="423" cy="64" r="14" stroke="#275b4d" stroke-opacity=".2"/>
+  <path d="M105 234V253M268 228V253M423 200V253" stroke="#98ad94" stroke-dasharray="3 4"/>
+  <g fill="#587a61"><circle cx="106" cy="270" r="3"/><circle cx="268" cy="270" r="3"/><circle cx="423" cy="270" r="3"/></g>
+</svg>
